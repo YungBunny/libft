@@ -16,5 +16,5 @@ make
 ```
 
 You should see a libft.a file and some object files (.o).
-To clean up (removing the .o files and the .c files from the root), call `<addr>`make clean`<addr>`
+To clean up (removing the .o files and the .c files from the root), call `make clean`
 WARNING: make clean will delete all your files from your root directory.
